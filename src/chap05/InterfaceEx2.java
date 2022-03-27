@@ -24,7 +24,7 @@ public class InterfaceEx2 {
         obj.method();
         obj.newDefaultMethod();
 
-        System.out.println("---------------");
+        System.out.println("--------------");
         Interface2 obj2 = new Cls2();
         obj2.method();
         obj2.newDefaultMethod();
